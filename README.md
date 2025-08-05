@@ -1,6 +1,6 @@
 # Re-dying Dungeon - Mobile Multiplayer Action Game
 
-Re-dying Dungeon là một tựa game **hành động sinh tồn kết hợp khám phá hầm ngục nhiều người chơi** được phát triển trên nền tảng **Unity** dành cho thiết bị di động. Dự án được thực hiện trong khuôn khổ môn học Đồ Án 1 tại Đại học Bách Khoa Hà Nội.
+Re-dying Dungeon là một tựa game **hành động sinh tồn kết hợp khám phá hầm ngục nhiều người chơi** được phát triển trên nền tảng **Unity** dành cho thiết bị di động.
 
 ## Nền tảng & Công nghệ
 
