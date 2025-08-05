@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0e35e00c0aefe3442945a90b568149fe
+timeCreated: 1538585728
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130001
+  packageName: Pixel Flamer X
+  packageVersion: 1.0
+  assetPath: Assets/Pixel_Flamer_X/Animations/Pixel_Flamer_X_Run.anim
+  uploadId: 270629

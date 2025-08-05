@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 537d9d1f50c06b047b5aeaa7d0edc694
+timeCreated: 1538585728
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130001
+  packageName: Pixel Flamer X
+  packageVersion: 1.0
+  assetPath: Assets/Pixel_Flamer_X/Animator_controller/Pixel_Flamer_X.controller
+  uploadId: 270629
