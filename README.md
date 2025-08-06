@@ -17,7 +17,7 @@ Tiêu diệt quái và thoát khỏi hẩm ngục
 ## 1 số hình ảnh về Game
 - Màn hình chính
 
-![MainMenuScreen](https://github.com/user-attachments/assets/873ceb61-306c-451b-b263-e42cc863acc5)
+  ![MainMenuScreen](https://github.com/user-attachments/assets/873ceb61-306c-451b-b263-e42cc863acc5)
 
 - Tạo/tìm/phòng chơi online (Photon)
 
@@ -39,13 +39,8 @@ Tiêu diệt quái và thoát khỏi hẩm ngục
 
 - Cấu hình di chuyển phù hợp cho cả PC và Mobile
 
-![InputSystem](https://github.com/user-attachments/assets/9baa56b3-7b9e-4b20-99dc-98b342803888)
+  ![InputSystem](https://github.com/user-attachments/assets/9baa56b3-7b9e-4b20-99dc-98b342803888)
 
 - Màn hình Gameplay
 
-![GamePlayScreen](https://github.com/user-attachments/assets/43daf88d-83b8-4af4-bf7c-21a8a42273e1)
-
-![GamePlayViewScreen](https://github.com/user-attachments/assets/edd92f78-6c58-4f66-8767-8ffa1b9d45d7)
-
-
-
+  ![GamePlayViewScreen](https://github.com/user-attachments/assets/edd92f78-6c58-4f66-8767-8ffa1b9d45d7)
