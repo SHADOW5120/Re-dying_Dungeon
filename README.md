@@ -4,7 +4,7 @@ Re-dying Dungeon là một tựa game **hành động sinh tồn kết hợp kh�
 
 ## Nền tảng & Công nghệ
 
-- **Engine**: Unity (2D Top-down)
+- **Engine**: Unity
 - **Ngôn ngữ**: C#
 - **Multiplayer**: Photon Realtime
 - **Backend**: Microsoft PlayFab
@@ -12,26 +12,12 @@ Re-dying Dungeon là một tựa game **hành động sinh tồn kết hợp kh�
 - **Mobile Target**: Android
 
 ## Gameplay chính
+Tiêu diệt quái và thoát khỏi hẩm ngục
 
-- **Nhiều người chơi** (multiplayer online).
-- **Đồ họa 2D** với góc nhìn từ trên xuống.
-- **Khám phá dungeon** ngẫu nhiên (Random Map Generation).
-
-## Sơ đồ phân cấp chức năng
-![LevelDiagram](https://github.com/user-attachments/assets/fb555a3f-c5ae-40bf-951c-41e807f92c26)
-
-## Sơ đồ thực thể liên kết
-
-![ER](https://github.com/user-attachments/assets/1ee467ba-72a2-4557-8c6b-af23faf8067a)
-
-## Tính năng đã triển khai
+## 1 số hình ảnh về Game
 - Màn hình chính
 
 ![MainMenuScreen](https://github.com/user-attachments/assets/873ceb61-306c-451b-b263-e42cc863acc5)
-
-- Màn hình Gameplay
-
-![GamePlayScreen](https://github.com/user-attachments/assets/43daf88d-83b8-4af4-bf7c-21a8a42273e1)
 
 - Tạo/tìm/phòng chơi online (Photon)
 
@@ -51,6 +37,15 @@ Re-dying Dungeon là một tựa game **hành động sinh tồn kết hợp kh�
 
   ![NPCBehaviorGraph](https://github.com/user-attachments/assets/c6637ff8-6f2c-4e89-91c6-d72b50079c9b)
 
-- Nhân vật có thể tấn công, di chuyển, tương tác
-- Đồng bộ mạng trạng thái gameplay
+- Cấu hình di chuyển phù hợp cho cả PC và Mobile
+
+![InputSystem](https://github.com/user-attachments/assets/9baa56b3-7b9e-4b20-99dc-98b342803888)
+
+- Màn hình Gameplay
+
+![GamePlayScreen](https://github.com/user-attachments/assets/43daf88d-83b8-4af4-bf7c-21a8a42273e1)
+
+![GamePlayViewScreen](https://github.com/user-attachments/assets/edd92f78-6c58-4f66-8767-8ffa1b9d45d7)
+
+
 
