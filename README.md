@@ -21,9 +21,7 @@ Tiêu diệt quái và thoát khỏi hẩm ngục
 
 - Tạo/tìm/phòng chơi online (Photon)
 
-  ![CreateRoom](https://github.com/user-attachments/assets/783aaf50-7f3e-43fe-91e1-22d45a985ba9)
-
-  ![PlayerInRoom](https://github.com/user-attachments/assets/b927ac70-1ba2-4069-a9ae-6402b1055fa1)
+  ![LobbyAndRoomScreen](https://github.com/user-attachments/assets/31efd375-9d36-4edb-9b9a-6cf8b351370d)
 
 - Đăng ký, đăng nhập, quên mật khẩu (PlayFab)
 
